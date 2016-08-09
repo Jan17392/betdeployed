@@ -1,0 +1,37 @@
+{
+	"type": "Collection",
+	"properties": {
+		"userReference": {
+			"name": "userReference",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "userReference",
+			"order": 0
+		},
+		"matchReference": {
+			"name": "matchReference",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "matchReference",
+			"order": 1
+		},
+		"budget": {
+			"name": "budget",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "budget",
+			"order": 2
+		},
+		"createdDate": {
+			"name": "createdDate",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "createdDate",
+			"order": 3
+		}
+	}
+}

@@ -1,0 +1,5 @@
+{
+  "mocha": true,
+  "expr": true,
+  "laxcomma": true
+}

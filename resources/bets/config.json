@@ -1,0 +1,173 @@
+{
+	"type": "Collection",
+	"properties": {
+		"matchReference": {
+			"name": "matchReference",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "matchReference",
+			"order": 0
+		},
+		"bettingType": {
+			"name": "bettingType",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "bettingType",
+			"order": 1
+		},
+		"bettingChoice": {
+			"name": "bettingChoice",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "bettingChoice",
+			"order": 2
+		},
+		"amountToBet": {
+			"name": "amountToBet",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "amountToBet",
+			"order": 3
+		},
+		"betWon": {
+			"name": "betWon",
+			"type": "boolean",
+			"typeLabel": "boolean",
+			"required": false,
+			"id": "betWon",
+			"order": 4
+		},
+		"amountReceived": {
+			"name": "amountReceived",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "amountReceived",
+			"order": 5
+		},
+		"createdDate": {
+			"name": "createdDate",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "createdDate",
+			"order": 6
+		},
+		"updatedDate": {
+			"name": "updatedDate",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "updatedDate",
+			"order": 7
+		},
+		"betPlaced": {
+			"name": "betPlaced",
+			"type": "boolean",
+			"typeLabel": "boolean",
+			"required": false,
+			"id": "betPlaced",
+			"order": 8
+		},
+		"avgOddHome": {
+			"name": "avgOddHome",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "avgOddHome",
+			"order": 9
+		},
+		"avgOddDraw": {
+			"name": "avgOddDraw",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "avgOddDraw",
+			"order": 10
+		},
+		"avgOddAway": {
+			"name": "avgOddAway",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "avgOddAway",
+			"order": 11
+		},
+		"avgProbHome": {
+			"name": "avgProbHome",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "avgProbHome",
+			"order": 12
+		},
+		"avgProbDraw": {
+			"name": "avgProbDraw",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "avgProbDraw",
+			"order": 13
+		},
+		"avgProbAway": {
+			"name": "avgProbAway",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "avgProbAway",
+			"order": 14
+		},
+		"maxOddHome": {
+			"name": "maxOddHome",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "maxOddHome",
+			"order": 15
+		},
+		"maxOddDraw": {
+			"name": "maxOddDraw",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "maxOddDraw",
+			"order": 16
+		},
+		"maxOddAway": {
+			"name": "maxOddAway",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "maxOddAway",
+			"order": 17
+		},
+		"kellyPercentageHome": {
+			"name": "kellyPercentageHome",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "kellyPercentageHome",
+			"order": 18
+		},
+		"kellyPercentageDraw": {
+			"name": "kellyPercentageDraw",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "kellyPercentageDraw",
+			"order": 19
+		},
+		"kellyPercentageAway": {
+			"name": "kellyPercentageAway",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "kellyPercentageAway",
+			"order": 20
+		}
+	}
+}

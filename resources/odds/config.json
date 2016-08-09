@@ -1,0 +1,85 @@
+{
+	"type": "Collection",
+	"properties": {
+		"matchId": {
+			"name": "matchId",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "matchId",
+			"order": 0
+		},
+		"matchReference": {
+			"name": "matchReference",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "matchReference",
+			"order": 1
+		},
+		"bookmaker": {
+			"name": "bookmaker",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "bookmaker",
+			"order": 2
+		},
+		"siteProvider": {
+			"name": "siteProvider",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "siteProvider",
+			"order": 3
+		},
+		"homeOdds": {
+			"name": "homeOdds",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "homeOdds",
+			"order": 4
+		},
+		"drawOdds": {
+			"name": "drawOdds",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "drawOdds",
+			"order": 5
+		},
+		"awayOdds": {
+			"name": "awayOdds",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "awayOdds",
+			"order": 6
+		},
+		"homeTeam": {
+			"name": "homeTeam",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "homeTeam",
+			"order": 7
+		},
+		"awayTeam": {
+			"name": "awayTeam",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "awayTeam",
+			"order": 8
+		},
+		"createdDate": {
+			"name": "createdDate",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "createdDate",
+			"order": 9
+		}
+	}
+}

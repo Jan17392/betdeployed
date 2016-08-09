@@ -1,0 +1,117 @@
+{
+	"type": "Collection",
+	"properties": {
+		"userId": {
+			"name": "userId",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "userId",
+			"order": 0
+		},
+		"matchReference": {
+			"name": "matchReference",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "matchReference",
+			"order": 1
+		},
+		"bettingStatus": {
+			"name": "bettingStatus",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "bettingStatus",
+			"order": 2
+		},
+		"bettingType": {
+			"name": "bettingType",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "bettingType",
+			"order": 3
+		},
+		"bettingChoice": {
+			"name": "bettingChoice",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "bettingChoice",
+			"order": 4
+		},
+		"changeInBudget": {
+			"name": "changeInBudget",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "changeInBudget",
+			"order": 5
+		},
+		"correctPrediction": {
+			"name": "correctPrediction",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "correctPrediction",
+			"order": 6
+		},
+		"budgetAvailable": {
+			"name": "budgetAvailable",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "budgetAvailable",
+			"order": 7
+		},
+		"budgetAllocated": {
+			"name": "budgetAllocated",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "budgetAllocated",
+			"order": 8
+		},
+		"kellyAllocated": {
+			"name": "kellyAllocated",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "kellyAllocated",
+			"order": 9
+		},
+		"oddAllocated": {
+			"name": "oddAllocated",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "oddAllocated",
+			"order": 10
+		},
+		"providerAllocated": {
+			"name": "providerAllocated",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "providerAllocated",
+			"order": 11
+		},
+		"createdDate": {
+			"name": "createdDate",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "createdDate",
+			"order": 12
+		},
+		"updatedDate": {
+			"name": "updatedDate",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "updatedDate",
+			"order": 13
+		}
+	}
+}

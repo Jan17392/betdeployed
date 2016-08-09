@@ -1,0 +1,229 @@
+{
+	"type": "Collection",
+	"properties": {
+		"homeTeamName": {
+			"name": "homeTeamName",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "homeTeamName",
+			"order": 0
+		},
+		"awayTeamName": {
+			"name": "awayTeamName",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "awayTeamName",
+			"order": 1
+		},
+		"matchDate": {
+			"name": "matchDate",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "matchDate",
+			"order": 2
+		},
+		"homeScore": {
+			"name": "homeScore",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "homeScore",
+			"order": 3
+		},
+		"awayScore": {
+			"name": "awayScore",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "awayScore",
+			"order": 4
+		},
+		"matchStatus": {
+			"name": "matchStatus",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "matchStatus",
+			"order": 5
+		},
+		"updateDate": {
+			"name": "updateDate",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "updateDate",
+			"order": 6
+		},
+		"matchID": {
+			"name": "matchID",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "matchID",
+			"order": 7
+		},
+		"matchEvents": {
+			"name": "matchEvents",
+			"type": "array",
+			"typeLabel": "array",
+			"required": false,
+			"id": "matchEvents",
+			"order": 8
+		},
+		"bettingType": {
+			"name": "bettingType",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "bettingType",
+			"order": 9
+		},
+		"bettingChoice": {
+			"name": "bettingChoice",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "bettingChoice",
+			"order": 10
+		},
+		"createdDate": {
+			"name": "createdDate",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "createdDate",
+			"order": 11
+		},
+		"avgOddHome": {
+			"name": "avgOddHome",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "avgOddHome",
+			"order": 12
+		},
+		"avgOddDraw": {
+			"name": "avgOddDraw",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "avgOddDraw",
+			"order": 13
+		},
+		"avgOddAway": {
+			"name": "avgOddAway",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "avgOddAway",
+			"order": 14
+		},
+		"avgProbHome": {
+			"name": "avgProbHome",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "avgProbHome",
+			"order": 15
+		},
+		"avgProbDraw": {
+			"name": "avgProbDraw",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "avgProbDraw",
+			"order": 16
+		},
+		"avgProbAway": {
+			"name": "avgProbAway",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "avgProbAway",
+			"order": 17
+		},
+		"maxOddHome": {
+			"name": "maxOddHome",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "maxOddHome",
+			"order": 18
+		},
+		"maxOddDraw": {
+			"name": "maxOddDraw",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "maxOddDraw",
+			"order": 19
+		},
+		"maxOddAway": {
+			"name": "maxOddAway",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "maxOddAway",
+			"order": 20
+		},
+		"kellyPercentageHome": {
+			"name": "kellyPercentageHome",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "kellyPercentageHome",
+			"order": 21
+		},
+		"kellyPercentageDraw": {
+			"name": "kellyPercentageDraw",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "kellyPercentageDraw",
+			"order": 22
+		},
+		"kellyPercentageAway": {
+			"name": "kellyPercentageAway",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "kellyPercentageAway",
+			"order": 23
+		},
+		"correctPrediction": {
+			"name": "correctPrediction",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "correctPrediction",
+			"order": 24
+		},
+		"providerHome": {
+			"name": "providerHome",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "providerHome",
+			"order": 25
+		},
+		"providerDraw": {
+			"name": "providerDraw",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "providerDraw",
+			"order": 26
+		},
+		"providerAway": {
+			"name": "providerAway",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "providerAway",
+			"order": 27
+		}
+	}
+}

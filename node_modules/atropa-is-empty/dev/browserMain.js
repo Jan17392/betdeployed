@@ -1,0 +1,1 @@
+isEmpty = require('../src/is-empty.js');

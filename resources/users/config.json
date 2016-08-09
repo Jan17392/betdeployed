@@ -1,0 +1,13 @@
+{
+	"type": "UserCollection",
+	"properties": {
+		"budget": {
+			"name": "budget",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "budget",
+			"order": 0
+		}
+	}
+}

@@ -1,0 +1,117 @@
+{
+	"type": "Collection",
+	"properties": {
+		"matchId": {
+			"name": "matchId",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "matchId",
+			"order": 0
+		},
+		"matchReference": {
+			"name": "matchReference",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "matchReference",
+			"order": 1
+		},
+		"homeTeam": {
+			"name": "homeTeam",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "homeTeam",
+			"order": 2
+		},
+		"awayTeam": {
+			"name": "awayTeam",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "awayTeam",
+			"order": 3
+		},
+		"expertId": {
+			"name": "expertId",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "expertId",
+			"order": 4
+		},
+		"bettingType": {
+			"name": "bettingType",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "bettingType",
+			"order": 5
+		},
+		"matchDate": {
+			"name": "matchDate",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "matchDate",
+			"order": 6
+		},
+		"bettingPrediction": {
+			"name": "bettingPrediction",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "bettingPrediction",
+			"order": 7
+		},
+		"homeProbability": {
+			"name": "homeProbability",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "homeProbability",
+			"order": 8
+		},
+		"drawProbability": {
+			"name": "drawProbability",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "drawProbability",
+			"order": 9
+		},
+		"awayProbability": {
+			"name": "awayProbability",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "awayProbability",
+			"order": 10
+		},
+		"createdDate": {
+			"name": "createdDate",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "createdDate",
+			"order": 11
+		},
+		"homeScorePredicted": {
+			"name": "homeScorePredicted",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "homeScorePredicted",
+			"order": 12
+		},
+		"awayScorePredicted": {
+			"name": "awayScorePredicted",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "awayScorePredicted",
+			"order": 13
+		}
+	}
+}

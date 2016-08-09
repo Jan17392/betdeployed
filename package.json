@@ -1,0 +1,42 @@
+{
+  "name": "betting",
+  "version": "1.0.0",
+  "main": "main_test.js",
+  "scripts": {
+    "start": "node main_test.js"
+  },
+  "dependencies": {
+    "array-trim": "^0.1.4",
+    "async": "^2.0.0",
+    "bluebird": "^3.4.1",
+    "cheerio": "^0.20.0",
+    "deployd": "^0.8.8",
+    "fuzzy": "^0.1.1",
+    "google-spreadsheet": "^2.0.3",
+    "javascripting": "^2.6.0",
+    "levenshtein": "^1.0.5",
+    "loadjson": "^1.1.2",
+    "mathjs": "^3.3.0",
+    "moment": "^2.14.1",
+    "node-schedule": "^1.1.1",
+    "querystring": "^0.2.0",
+    "request": "^2.72.0",
+    "schedule": "^0.1.0",
+    "standard-format": "^2.2.2",
+    "stringify": "^5.1.0",
+    "url": "^0.11.0",
+    "url-parse": "^1.1.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jan17392/betting-node.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jan17392/betting-node.js/issues"
+  },
+  "homepage": "https://github.com/Jan17392/betting-node.js#readme",
+  "description": ""
+}
